@@ -1,5 +1,5 @@
 # data_science_portfolio
-Compilation of projects carried out during a 38 week intensive course
+Compilation of projects carried out as part of a 38 week intensive Data Science course
 
 | No. |    Task |            Objective                 |        Project       | Libraries     | 
 |---- |   -------------------- |   ------------------------------ |     -------------   |--------------- |  
